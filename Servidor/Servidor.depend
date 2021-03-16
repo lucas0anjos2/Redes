@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1561925088 source:/media/sf_trab/ClienteServidorAtual/Servidor/main.cpp
+	"servidor.h"
+
+1561859647 /media/sf_trab/ClienteServidorAtual/Servidor/servidor.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<iostream>
+	<string.h>
+	<unistd.h>
+	<fstream>
+	<locale.h>
+	"base64.h"
+	"sha256.h"
+
+1561904865 source:/media/sf_trab/ClienteServidorAtual/Servidor/servidor.cpp
+	"servidor.h"
+
+1561809286 source:/media/sf_trab/ClienteServidorAtual/Servidor/base64.cpp
+	"base64.h"
+	<iostream>
+
+1561809303 /media/sf_trab/ClienteServidorAtual/Servidor/base64.h
+	<string>
+
+1561844123 /media/sf_trab/ClienteServidorAtual/Servidor/sha256.h
+	<string>
+
